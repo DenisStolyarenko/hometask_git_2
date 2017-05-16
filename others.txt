@@ -1,1 +1,2 @@
 # Add new file to develop branch
+Add string for conflict
