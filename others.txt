@@ -1,2 +1,3 @@
 # Add new file to develop branch
-Add string for conflict
+Add string
+for conflict in develop branch and merge
